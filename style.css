@@ -1,3 +1,16 @@
+
+section{
+    height:700px;
+}
+#home{
+    background:blue;
+}
+#about{
+    background:green;
+}
+#contact{
+    background:yellow;
+}
 .navbar-expand-lg{
-    background-color:red;
+    background-color: red;
 }
